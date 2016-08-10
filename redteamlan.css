@@ -1,0 +1,19 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.page {
+  padding: 3rem 1.5rem;
+}
+.navbar-nav {
+  display: inline-block;
+}
+.navbar-brand {
+  display: inline-block;
+  float: none;
+  margin-right: 0px;
+  font-size: 32px;
+}
