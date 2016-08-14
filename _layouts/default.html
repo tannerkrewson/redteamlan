@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1, user-scalable=no">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="{{site.description}}"/>
     <meta name="author" content="{{site.author}}"/>
@@ -24,16 +24,12 @@
 
 		{% include navbar.html %}
 
-		<br/>
 		<div class="content">
 			<div class="container page">
       		{{ content }}
+          {% include footer.html %}
 			</div>
     </div>
-
-		<div class="container">
-			{% include footer.html %}
-		</div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
