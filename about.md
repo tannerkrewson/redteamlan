@@ -10,7 +10,14 @@ A message from the founder of Red Team LAN-
 
 -Tanner Krewson
 
-<img border="0" height="300" src="http://static.tumblr.com/6b3eee511ea9d98a3b80f882e68bdd86/hpqnxxs/t25n6ilzn/tumblr_static_ebxmj9eqj7k0gs4c4ccgws0g8_2048_v2.jpg" style="line-height:1.6;font-size:10pt;display:inline;margin:5px 10px;float:right;background-color:transparent" width="400">
+<figure class="figure" style="display:inline;float:right;margin:5px 10px;">
+  <img
+    width="500"
+    src="{{ site.github.url }}/img/lan-party-14.jpg"
+    class="figure-img img-fluid rounded"
+    alt="LAN Party 14">
+  <figcaption class="figure-caption text-xs-right">Getting LAN Party 14 started with a game of Supraball - September 6th, 2014</figcaption>
+</figure>
 
 #### Rules:
 - You are responsible for your own actions. The hosts are not liable for anything that happens to you or your equipment.
@@ -41,6 +48,7 @@ A message from the founder of Red Team LAN-
 - **Mouse Pad**: Your mouse probably won't work that great on the tables, and some won't work at all on the plastic tables. A mouse pad will fix this.
 - **Keyboard**: If you have a desktop this is obvious. Laptops have one built in that is (usually) good enough.
 - **Speakers / Headset**: Bring your headset if you don't want to annoy everyone; bring your speakers if you do. If you do bring speakers, you hereby give everyone the right to throw them out the window if you are blasting Moon Man music.
+- **Ethernet Cable**: We will provide Ethernet cables, but you can bring your own if you would like to.
 - **Power Strip**: Even if you have a laptop, you should bring this. We never have enough; it's unavoidable.
 - **Pillow/Sleeping Materials**: We have a limited, first-come first-serve supply of sleeping supplies. Bring your own to be sure you don't get left out.
 - **Snacks**: A bag of chips, some cookies, donuts, candy, etc. Even a pack of soda would be good. Read the guidelines below to help determine if your snack is a good snack:
@@ -56,5 +64,4 @@ A message from the founder of Red Team LAN-
 
 What NOT to bring:
 
-- **Ethernet Cables**: will be provided
 - **Brett's Mom**: provided since 2013 _and counting_

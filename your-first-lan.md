@@ -11,8 +11,12 @@ Before the LAN:
 
 - **Your Computer**: Decide if you will bring a desktop or laptop. Most people bring their desktops, and I would recommend it if it is more powerful than your laptop. But a laptop also works perfectly fine.
 - **Install Steam**: Most important thing you will ever do in your whole life. Your life will never be the same. Click [here](http://store.steampowered.com/about/) to ascend (and download Steam).
-- **Install the required free games**: On the [Games](/games) page, which can be found at the top of this site, you will find some games you must download.
-- **Figure out what snack you want to bring**: You must bring a snack or pack of soda for entry to a LAN. You may also opt to pay $5 instead of bringing a snack. This $5 is separate from the $5 for pizza. The best snacks to bring are Doritos, cookies, soda, etc. This will be shared with everyone.
+- **Figure out what snack you want to bring**: You must either bring a snack or pack of soda for entry to a LAN, or opt to pay $5 instead of bringing a snack. This $5 is separate from the $5 for pizza. (So if you did not bring a snack, and you want pizza, you will end up paying $10.) The best snacks to bring are Doritos, cookies, soda, etc. This will be shared with everyone. If you're having trouble deciding what to bring, here are some snack ideas:
+  - **A Bag of Chips**: Doritos, Cheetos, Pringles, Funyuns, Flavored Lays, etc.
+  - **A Bag of Candy**: M&M's, Reese's Peanut Butter Cups, Gummy Bears, Assorted Bag, etc.
+  - **Breakfast Food**: Box of Donuts, Muffins, Bananas, Granola Bars, Pop-Tarts, etc.
+  - **Drinks**: Cans of Soda, Water Bottles, etc.
+  - **Misc.**: Trail Mix, Popcorn, Jerky, Cookies, Brownies, etc.
 - **Get administrator access**: If you are bringing your parent's/family's computer, you need the admin password to avoid issues with firewalls and such that may prevent you from being able to play some games.
 - **Get lots of sleep the night before**: We always stay up late into the night. Caffeine only helps so much. Get some sleep and you'll be set.
 

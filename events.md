@@ -5,8 +5,13 @@ title: Events
 ## Events
 
 Upcoming:
-
-- EncoreLAN - Friday, January 6th, 2017 -- Sunday, 8th
+<ul>
+  <li>EncoreLAN - Friday, January 6th, 2017 -- Sunday, 8th</li>
+	<li class="duringEncoreLAN">LAN 30 - Saturday, May 27th, 2017 – Sunday, 28th</li>
+	<li class="duringEncoreLAN">LAN 31 - Saturday, June 24th, 2017 – Sunday, 25th</li>
+	<li class="duringEncoreLAN">LAN 32 - Saturday, July 22nd, 2017 – Sunday, 23rd</li>
+	<li class="duringEncoreLAN">LAN 33 - Saturday, August 12th, 2017 – Sunday, 13th</li>
+</ul>
 
 Past: (Click to see the timelapse, if available)
 

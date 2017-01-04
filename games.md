@@ -5,24 +5,29 @@ title: Games
 ## Games
 
 We will provide instructions on how to get these games once you arrive at
-the LAN. Don't worry about downloading them beforehand.
+the LAN.
 
 #### EncoreLAN Potential Game List:
 
+- 7 Days To Die
 - 8-Bit Armies
 - Battlefield 2
 - Blur
-- Drawphone
+- [Drawphone](http://drawphone.tannerkrewson.com/)
+- Golf With Your Friends
 - Keep Talking and Nobody Explodes
 - Mount & Blade: Warband
 - Quake Live
+- Sonic & All-Stars Racing Transformed
+- [Spyout](http://spyout.tannerkrewson.com/)
 - Star Wars Battlefront II
+- Supraball
 
-**Games we used to play**:
+**Games we've played in the past**:
 
 - Agario
 - Age of Empires II
-- Armagetron Advanced
+- Armagetron
 - Artemis
 - Battlefield 3
 - Call of Duty 4
@@ -35,7 +40,6 @@ the LAN. Don't worry about downloading them beforehand.
 - Killing Floor
 - Left 4 Dead 2
 - Rocket League
-- Supraball
 - Tabletop Simulator
 - Team Fortress 2
 - The Ship
