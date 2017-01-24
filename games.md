@@ -7,7 +7,7 @@ title: Games
 We will provide instructions on how to get these games once you arrive at
 the LAN.
 
-#### EncoreLAN Potential Game List:
+#### Current Game List:
 
 - 7 Days To Die
 - 8-Bit Armies

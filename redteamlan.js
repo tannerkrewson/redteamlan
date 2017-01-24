@@ -1,20 +1,20 @@
 
-var endDate = new Date(1483747200000); //encoreLAN
+var endDate = new Date(1495321200000); // LAN 30
 
 if (location.pathname == "/") {
 	//if the coundown time is passed
 	if (Date.now() >= endDate) {
-		$(".duringEncoreLAN").show();
+		$(".duringLAN").show();
 	} else {
-		$(".beforeEncoreLAN").show();
+		$(".beforeLAN").show();
 	}
 
 	var hasPassedCountdownTime = false;
 	countdown(endDate, function(time) {
 		//if the coundown time is passed, only runs once
 		if (time.end >= endDate && !hasPassedCountdownTime) {
-			$(".beforeEncoreLAN").hide();
-			$(".duringEncoreLAN").show();
+			$(".beforeLAN").hide();
+			$(".duringLAN").show();
 			hasPassedCountdownTime = true;
 		} else if (time.end < endDate) {
 			$('#countdown').html(time.toString());
@@ -22,6 +22,6 @@ if (location.pathname == "/") {
 	});
 } else if (location.pathname == "/events") {
 	if (Date.now() >= endDate) {
-		$(".duringEncoreLAN").show();
+		$(".duringLAN").show();
 	}
 }

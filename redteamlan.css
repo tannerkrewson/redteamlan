@@ -23,6 +23,6 @@ footer {
   z-index: 1030;
   border-radius: 0rem;
 }
-.beforeEncoreLAN, .duringEncoreLAN {
+.beforeLAN, .duringLAN {
   display: none;
 }
