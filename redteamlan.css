@@ -26,3 +26,7 @@ footer {
 .beforeLAN, .duringLAN {
   display: none;
 }
+
+.important-text {
+  color: red;
+}

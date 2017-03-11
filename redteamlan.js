@@ -1,5 +1,5 @@
 
-var endDate = new Date(1495321200000); // LAN 30
+var endDate = new Date(1495234800000); // LAN 30
 
 if (location.pathname == "/") {
 	//if the coundown time is passed

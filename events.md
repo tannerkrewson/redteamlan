@@ -7,9 +7,7 @@ title: Events
 Upcoming:
 
 - LAN 30 - Friday, May 19th, 2017
-- LAN 31 - Saturday, June 17th, 2017
-- LAN 32 - Saturday, July 15th, 2017
-- LAN 33 - Saturday, August 12th, 2017
+- LAN 31 - Friday, January 5th, 2018
 
 Past: (Click to see the timelapse, if available)
 
