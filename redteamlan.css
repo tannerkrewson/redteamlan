@@ -10,6 +10,10 @@ footer {
 #logo {
   height: 6em;
 }
+#unlanlogo {
+    height: 9em;
+    margin-bottom: .5em;
+}
 .navbar-toggler {
   position: absolute;
   left: 0;
@@ -26,7 +30,9 @@ footer {
 .beforeLAN, .duringLAN {
   display: none;
 }
-
 .important-text {
   color: red;
+}
+.time-text {
+    font-size: 112%;
 }
