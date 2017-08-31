@@ -1,5 +1,4 @@
-//not in use for now
-/*var endDate = new Date(1495234800000); // LAN 30
+var endDate = new Date(1515196800000); // unLAN
 
 if (location.pathname == "/") {
 	//if the coundown time is passed
@@ -24,4 +23,4 @@ if (location.pathname == "/") {
 	if (Date.now() >= endDate) {
 		$(".duringLAN").show();
 	}
-}*/
+}
