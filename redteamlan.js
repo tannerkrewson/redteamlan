@@ -1,3 +1,4 @@
+/*
 var endDate = new Date(1515196800000); // unLAN
 
 if (location.pathname == "/") {
@@ -24,3 +25,4 @@ if (location.pathname == "/") {
 		$(".duringLAN").show();
 	}
 }
+*/
