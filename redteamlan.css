@@ -4,28 +4,12 @@ footer {
 .page {
   padding: 1.5rem 1.5rem;
 }
-.navbar-nav {
-  display: inline-block;
-}
 #logo {
   height: 6em;
 }
 #unlanlogo {
     height: 9em;
     margin-bottom: .5em;
-}
-.navbar-toggler {
-  position: absolute;
-  left: 0;
-  top: 1.5em;
-  color: white;
-}
-.navbar {
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 1030;
-  border-radius: 0rem;
 }
 .beforeLAN, .duringLAN {
   display: none;
@@ -35,4 +19,11 @@ footer {
 }
 .time-text {
     font-size: 112%;
+}
+.navbar {
+  flex-direction: column;
+  justify-content: center;
+}
+.navbar-toggler {
+  align-self: flex-start;
 }
