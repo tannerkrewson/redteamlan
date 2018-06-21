@@ -5,11 +5,11 @@ footer {
   padding: 1.5rem 1.5rem;
 }
 #logo {
-  height: 6em;
+  height: 5em;
 }
 #unlanlogo {
-    height: 9em;
-    margin-bottom: .5em;
+  height: 9em;
+  margin-bottom: .5em;
 }
 .beforeLAN, .duringLAN {
   display: none;
@@ -21,9 +21,9 @@ footer {
     font-size: 112%;
 }
 .navbar {
-  flex-direction: column;
   justify-content: center;
+  flex-direction: column;
 }
-.navbar-toggler {
-  align-self: flex-start;
+.navbar-header {
+  flex-shrink: 0;
 }

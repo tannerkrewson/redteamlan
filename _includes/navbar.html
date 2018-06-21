@@ -1,44 +1,43 @@
-<div class="text-center">
-	<nav class="navbar navbar-dark bg-dark navbar-expand-sm">
-		<button
-			class="navbar-toggler"
-			type="button"
-			data-toggle="collapse"
-			data-target="#navbarSupportedContent"
-			aria-controls="navbarSupportedContent"
-			aria-expanded="false"
-			aria-label="Toggle navigation">
-			&#9776;
-		</button>
-		<div class="navbar-header">
-			<img src="{{ site.github.url }}/img/logo.svg" alt="redteamlan" id="logo">
-		</div>
-		<div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<ul class="navbar-nav mr-auto">
-				{% assign current = page.url | downcase | split: '/' %}
-				{% capture pagename %}/{{ current[1] }}{% endcapture %}
-				<li class="nav-item{% if pagename == '/' %} active{% endif %}">
-					<a class="nav-link" href="{{ site.github.url }}/">Home</a>
-				</li>
-				<li class="nav-item{% if pagename == '/about' %} active{% endif %}">
-					<a class="nav-link" href="{{ site.github.url }}/about">About</a>
-				</li>
-				<li class="nav-item{% if pagename == '/events' %} active{% endif %}">
-					<a class="nav-link" href="{{ site.github.url }}/events">Events</a>
-				</li>
-				<li class="nav-item{% if pagename == '/games' %} active{% endif %}">
-					<a class="nav-link" href="{{ site.github.url }}/games">Games</a>
-				</li>
-				<li class="nav-item{% if pagename == '/your-first-lan' %} active{% endif %}">
-					<a class="nav-link" href="{{ site.github.url }}/your-first-lan">Your First LAN</a>
-				</li>
-				<li class="nav-item{% if pagename == '/build-a-pc' %} active{% endif %}">
-					<a class="nav-link" href="{{ site.github.url }}/build-a-pc">Build a PC</a>
-				</li>
-				<li class="nav-item{% if pagename == '/lansite' %} active{% endif %}">
-					<a class="nav-link" href="{{ site.github.url }}/lansite">Lansite</a>
-				</li>
-			</ul>
-		</div>
-	</nav>
-</div>
+<nav class="navbar navbar-dark bg-dark navbar-expand-sm">
+	<button
+		class="navbar-toggler"
+		type="button"
+		data-toggle="collapse"
+		data-target="#navbarSupportedContent"
+		aria-controls="navbarSupportedContent"
+		aria-expanded="false"
+		aria-label="Toggle navigation"
+	>
+		&#9776;
+	</button>
+	<div class="navbar-header">
+		<img src="{{ site.github.url }}/img/logo.svg" alt="redteamlan" id="logo">
+	</div>
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		<ul class="navbar-nav mr-auto text-center">
+			{% assign current = page.url | downcase | split: '/' %}
+			{% capture pagename %}/{{ current[1] }}{% endcapture %}
+			<li class="nav-item{% if pagename == '/' %} active{% endif %}">
+				<a class="nav-link" href="{{ site.github.url }}/">Home</a>
+			</li>
+			<li class="nav-item{% if pagename == '/about' %} active{% endif %}">
+				<a class="nav-link" href="{{ site.github.url }}/about">About</a>
+			</li>
+			<li class="nav-item{% if pagename == '/events' %} active{% endif %}">
+				<a class="nav-link" href="{{ site.github.url }}/events">Events</a>
+			</li>
+			<li class="nav-item{% if pagename == '/games' %} active{% endif %}">
+				<a class="nav-link" href="{{ site.github.url }}/games">Games</a>
+			</li>
+			<li class="nav-item{% if pagename == '/your-first-lan' %} active{% endif %}">
+				<a class="nav-link" href="{{ site.github.url }}/your-first-lan">Your First LAN</a>
+			</li>
+			<li class="nav-item{% if pagename == '/build-a-pc' %} active{% endif %}">
+				<a class="nav-link" href="{{ site.github.url }}/build-a-pc">Build a PC</a>
+			</li>
+			<li class="nav-item{% if pagename == '/lansite' %} active{% endif %}">
+				<a class="nav-link" href="{{ site.github.url }}/lansite">Lansite</a>
+			</li>
+		</ul>
+	</div>
+</nav>
