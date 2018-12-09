@@ -6,10 +6,10 @@ title: Events
 
 Past: (Click to see the timelapse, if available)
 
-- [unLAN](https://www.youtube.com/watch?v=Kduiw9piDNU) - Friday, January 5th, 2018
+- [LAN 31 (unLAN)](https://www.youtube.com/watch?v=Kduiw9piDNU) - Friday, January 5th, 2018
 - [LAN 30](https://www.youtube.com/watch?v=d5MSVXdDwXg) - Friday, May 19th, 2017
-- [EncoreLAN](https://www.youtube.com/watch?v=0uWIildPREM) - Friday, January 6th, 2017
-- [LASTLAN](https://www.youtube.com/watch?v=KO0ehXgLRKo) - Saturday, August 6th, 2016
+- [LAN 29 (EncoreLAN)](https://www.youtube.com/watch?v=0uWIildPREM) - Friday, January 6th, 2017
+- [LAN 28 (LASTLAN)](https://www.youtube.com/watch?v=KO0ehXgLRKo) - Saturday, August 6th, 2016
 - [LAN 27](https://www.youtube.com/watch?v=BX3vm09QAww) - Saturday, July 16th, 2016
 - [LAN 26](https://www.youtube.com/watch?v=MtczHyLw2M4) - Saturday, June 18th, 2016
 - [LAN 25](https://www.youtube.com/watch?v=fHg5BDUASeA) - Saturday, May 21st, 2016
