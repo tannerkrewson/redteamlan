@@ -58,7 +58,7 @@ A message from the founder of Red Team LAN-
     - For example, at LAN Party 4, Kevin S brought a family size bag of Ruffles that was opened, but was not eaten by anyone at all, and that bag now lives in my pantry forever more.
 
 - **Money**: If the LAN requires it, bring it, whatever the price maybe. If you think it's too much, we can fight irl.
-- **Cellphone and its charger**: To call your mommy when Chris Hodges makes you cry. (watch out, he's a [real g](https://www.youtube.com/watch?v=ImlpTnEjPEE).)
+- **Cellphone and its charger**: To call your mommy when Chris Hodges makes you cry. (watch out, he's a [real g](https://www.youtube.com/watch?v=E9nzI_TOvsA).)
 - **iPod, iPad, DS, etc. and the chargers**: For when you're bored of Team Fortress 2, because that is all we will end up playing anyways.
 - **Game consoles**: Ask the event host first.
 
