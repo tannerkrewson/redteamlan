@@ -1,6 +1,6 @@
-# redteamlan-website
+# The Red Team LAN Website
 
-**Visit the site: www.redteamlan.com**
+**Visit the site: www.wtannerkrewson.com/redteamlan**
 
 This is the source code of the new website for Red Team LAN, replacing the old Google Sites website.
 
