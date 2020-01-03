@@ -6,6 +6,7 @@ title: Events
 
 Past: (Click to see the timelapse, if available)
 
+- [LAN 32](https://www.youtube.com/watch?v=d5MSVXdDwXg) - Thursday, January 2nd, 2020
 - [LAN 31 (unLAN)](https://www.youtube.com/watch?v=Kduiw9piDNU) - Friday, January 5th, 2018
 - [LAN 30](https://www.youtube.com/watch?v=d5MSVXdDwXg) - Friday, May 19th, 2017
 - [LAN 29 (EncoreLAN)](https://www.youtube.com/watch?v=0uWIildPREM) - Friday, January 6th, 2017
