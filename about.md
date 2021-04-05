@@ -39,7 +39,7 @@ A message from the founder of Red Team LAN-
 - **Your computer**:
     - Desktops and laptops are allowed. 
     - Remember your power cable/charger for your computer.
-    - Desktops aren't as much as a hassle as you might think, so if its better than you're laptop, bring it.
+    - Desktops aren't as much as a hassle as you might think, so if its better than your laptop, bring it.
     - If you're bringing a laptop, make sure you’re fully charged before you come
     - Your computer should be running Windows 7 or 8 to play all games.
 
